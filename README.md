@@ -16,9 +16,9 @@ The app will then display the results of the analysis, including the categories 
 
 This app can be used to help protect users from harmful content online. It can also be used to help businesses and organizations moderate their own content.
 
-![image](https://github.com/sandra-calvo/content_moderation/blob/main/ui.png)
+![image](https://github.com/sandracalvo/content_moderation/blob/main/ui.png)
 
-![image](https://github.com/sandra-calvo/content_moderation/blob/main/categories.png)
+![image](https://github.com/sandracalvo/content_moderation/blob/main/categories.png)
 
 ## Components 
 
